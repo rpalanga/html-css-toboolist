@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0px;
+    padding: 0px;
 }
 
 body{
@@ -21,6 +22,8 @@ main{
     
     margin: 40px;
     border-radius: 10px;
+    padding-left: 30px;
+    height: 800px;
     
     background-color: white;
 }
@@ -47,7 +50,71 @@ main{
  #arrows-smoller{
     font-size: 0.5em;
  }
+ .container-2{
+     padding-left: 30px;
+     
+     width: 100%;
+     height: auto;
+     
+ 
+ }
 
+ .Editorial{
+    
+    background-color: rgb(43, 80, 226);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
+ }
+.riga{
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+}
+ h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
 
+#Goals{
+    background-color: rgb(150, 43, 226);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
 
-
+}
+#Recreuiting{
+    background-color: rgb(20, 173, 20);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
+}
+#Mobile{
+    background-color: rgba(255, 166, 0, 0.939);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
+}
+#Website{
+    background-color: rgb(201, 113, 128);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
+}
+#Sales{
+    background-color: rgb(136, 199, 85);
+    height: 20px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    padding: 5px;
+    color: white;
+}
