@@ -1,3 +1,53 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
 }
+
+body{
+    background-color: grey;
+}
+
+h1{
+    display: inline-block;
+}
+
+#logo{
+    background-color: white;
+}
+
+main{
+    /* height: 200px;
+    width: 800px; */
+    
+    margin: 40px;
+    border-radius: 10px;
+    
+    background-color: white;
+}
+#contenier{
+    height: 50px;
+    
+
+    padding: 20px 140px 10px 30px;
+    
+    
+    background-color: white;
+    border-radius: 10px
+    
+}
+#bottone-blu{
+    background-color: azure;
+    border-radius: 3px;
+}
+#bottone-bianco{
+
+    border-radius: 3px;
+}
+ /* inizio corpo centrale */
+ #arrows-smoller{
+    font-size: 0.5em;
+ }
+
+
+
+
